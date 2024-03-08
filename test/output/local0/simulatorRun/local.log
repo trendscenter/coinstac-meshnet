@@ -1,0 +1,6 @@
+2024-03-08 22:59:17,314 - INFO - Logging started
+2024-03-08 22:59:17,314 - INFO - Logging started
+2024-03-08 22:59:17,318 - INFO - Wandb URL: https://wandb.ai/trendsgrafana/Meshnet/runs/507xnb8l
+2024-03-08 22:59:17,318 - INFO - Wandb URL: https://wandb.ai/trendsgrafana/Meshnet/runs/507xnb8l
+2024-03-08 22:59:49,592 - INFO - Epoch :0 Batch : 0 loss :1.1768854856491089 Dice :0.26594871282577515
+2024-03-08 22:59:49,592 - INFO - Epoch :0 Batch : 0 loss :1.1768854856491089 Dice :0.26594871282577515

@@ -1,0 +1,6 @@
+2024-03-08 22:59:17,314 - INFO - Logging started
+2024-03-08 22:59:17,314 - INFO - Logging started
+2024-03-08 22:59:17,318 - INFO - Wandb URL: https://wandb.ai/trendsgrafana/Meshnet/runs/pu461o2o
+2024-03-08 22:59:17,318 - INFO - Wandb URL: https://wandb.ai/trendsgrafana/Meshnet/runs/pu461o2o
+2024-03-08 22:59:48,656 - INFO - Epoch :0 Batch : 0 loss :1.1117662191390991 Dice :0.06315893679857254
+2024-03-08 22:59:48,656 - INFO - Epoch :0 Batch : 0 loss :1.1117662191390991 Dice :0.06315893679857254
